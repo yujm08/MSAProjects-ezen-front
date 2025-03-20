@@ -44,6 +44,8 @@ export default function Header() {
               src="/images/NewOrbitlogowithTextnuggi.png" // public/images 폴더 내 이미지 파일
               alt="Ezen Finance"
               className="h-8 w-auto mr-2 filter invert brightness-0 cursor-pointer"
+              width={500}   // 원하는 width 값
+              height={300}  // 원하는 height 값
             />
           </Link>
         </div>
