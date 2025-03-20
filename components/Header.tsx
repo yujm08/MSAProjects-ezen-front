@@ -41,7 +41,7 @@ export default function Header() {
         <div className="flex items-center">
           <Link href="/">
             <Image
-              src="/images/NewOrbit로고(with텍스트)누끼.png" // public/images 폴더 내 이미지 파일
+              src="/images/NewOrbitlogowithTextnuggi.png" // public/images 폴더 내 이미지 파일
               alt="Ezen Finance"
               className="h-8 w-auto mr-2 filter invert brightness-0 cursor-pointer"
             />
